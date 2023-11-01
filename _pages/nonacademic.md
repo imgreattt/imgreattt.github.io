@@ -1,30 +1,30 @@
-<!-- ---
+---
 layout: page
 title: Non Academic
 permalink: /nonacademic/
-carousels:
-    - images:
-        - image : ../images/conclave_2.png
-          desc: "Conclave and Symposium team 2019"
-        - image : ../images/aml.jpg
-          desc: "Conclave and Symposium team 2018"
-        - image : ../images/aml_2.jpg
-          desc: "With Dr.Goswami"
-    - images:
-        - image : ../images/interiit_2.jpg
-          desc: "Playing at IIT-BBSR Inter IIT Sports meet"
-        - image : ../images/iitroorkee.jpg
-          desc: "IITGN vs IIT Roorkee"
-        - image : ../images/interiit_1.jpg
-          desc: "Inter IIT Sports Meet team"
-        - image : ../images/iitl.png
-          desc: "My Intra Institute TT League team."
+# carousels:
+#     - images:
+#         - image : ../images/conclave_2.png
+#           desc: "Conclave and Symposium team 2019"
+#         - image : ../images/aml.jpg
+#           desc: "Conclave and Symposium team 2018"
+#         - image : ../images/aml_2.jpg
+#           desc: "With Dr.Goswami"
+#     - images:
+#         - image : ../images/interiit_2.jpg
+#           desc: "Playing at IIT-BBSR Inter IIT Sports meet"
+#         - image : ../images/iitroorkee.jpg
+#           desc: "IITGN vs IIT Roorkee"
+#         - image : ../images/interiit_1.jpg
+#           desc: "Inter IIT Sports Meet team"
+#         - image : ../images/iitl.png
+#           desc: "My Intra Institute TT League team."
         
         
 ---
 
 
-## Rubik's Cube
+<!-- ## Rubik's Cube
 
 ![](../images/rubiks.gif)
 
@@ -55,8 +55,8 @@ I play the keyboard when I want to feel at peace :) This is a cover of Fur Elise
 
 ![](../images/torque.png)
 
-Torque is the annual campus magazine of IITGN. I joined the Torque 3.0 team as the Chief Editor of the Editorial Board. It took a lot of effort to write, collaborate, and go from releasing the online version of the magazine to actually printing it amidst a pandemic!
-
+Torque is the annual campus magazine of IITGN. I joined the Torque 3.0 team as the Chief Editor of the Editorial Board. It took a lot of effort to write, collaborate, and go from releasing the online version of the magazine to actually printing it amidst a pandemic! -->
+<!-- 
 
 ## Amalthea
 
@@ -73,18 +73,18 @@ Amalthea - Annual Technical Summit of IITGN
 ![](../images/latex_2.jpg)
 
 Team LaTeX was born with the spirit of inculcating a technical culture in the institute.  LaTeX is a popular typesetting tool used in most academic works, and we hosted a two day workshop to improve the understanding of LaTeX amongst the students of IITGN. In my first year, I was a organizer, and in my second year, managed the entire event.
+ -->
 
 
 
 
-
-## Writing
+<!-- ## Writing
 
 I occasionally like to write on my experiences and things that I did uniquely. Checkout some of my articles below.
 
 - GRE: My Test Centre Experience | by Dwip Dalal | Medium 
 
-- Cracking the MITACS Globalink Research Internship (GRI) | by Dwip Dalal | Medium  - Record number of people cracked MITACS from IITGN after the article. Correlation --> 
+- Cracking the MITACS Globalink Research Internship (GRI) | by Dwip Dalal | Medium  - Record number of people cracked MITACS from IITGN after the article. Correlation -->  
 
 <!-- - Invent@IITGN 2019 Experience - Praveen | Academic Council | IIT Gandhinagar 
 
@@ -104,4 +104,4 @@ More on my experiences on applying to grad school, and how I dominated GRE and T
 
 - Fall '20 - Academic Discussion Hours Mentor: Mentored and taught concepts to sophomores for the Digital Systems course.
 
-- Python for Robotics Workshop: Introduction to Robotics -  Hosted a workshop using a library that I developed for python. --> -->
+- Python for Robotics Workshop: Introduction to Robotics -  Hosted a workshop using a library that I developed for python. -->
