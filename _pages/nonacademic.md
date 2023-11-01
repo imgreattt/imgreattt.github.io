@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Non Academic
 permalink: /nonacademic/
@@ -84,9 +84,9 @@ I occasionally like to write on my experiences and things that I did uniquely. C
 
 - GRE: My Test Centre Experience | by Dwip Dalal | Medium 
 
-- Cracking the MITACS Globalink Research Internship (GRI) | by Dwip Dalal | Medium  - Record number of people cracked MITACS from IITGN after the article. Correlation --> Causation? I hope so :)
+- Cracking the MITACS Globalink Research Internship (GRI) | by Dwip Dalal | Medium  - Record number of people cracked MITACS from IITGN after the article. Correlation --> 
 
-- Invent@IITGN 2019 Experience - Praveen | Academic Council | IIT Gandhinagar 
+<!-- - Invent@IITGN 2019 Experience - Praveen | Academic Council | IIT Gandhinagar 
 
 - Pandemic? What pandemic? We’re Innovators! - Torque 
 
@@ -104,4 +104,4 @@ More on my experiences on applying to grad school, and how I dominated GRE and T
 
 - Fall '20 - Academic Discussion Hours Mentor: Mentored and taught concepts to sophomores for the Digital Systems course.
 
-- Python for Robotics Workshop: Introduction to Robotics -  Hosted a workshop using a library that I developed for python.
+- Python for Robotics Workshop: Introduction to Robotics -  Hosted a workshop using a library that I developed for python. --> -->

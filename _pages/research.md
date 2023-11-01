@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-### Publications
+<!-- ### Publications
 
 - Dwip Dalal*, Rwik Rana*, Varun Jain. 2021. Memory Guided Road Segmentation. Accepted at the 21st International Conference on Image Analysis and Processing, Italy.
 
@@ -26,4 +26,4 @@ permalink: /research/
 
 ### Patents
 
--  Assistive Dining Device - Dwip Dalal*, Chris Francis*, US and IN, Provisional.
+-  Assistive Dining Device - Dwip Dalal*, Chris Francis*, US and IN, Provisional. -->

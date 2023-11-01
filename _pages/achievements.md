@@ -3,14 +3,14 @@ layout: page
 title: Achievements
 permalink: /achievements/
 ---
-
+<!-- 
 <center><i>“Life is not a race but a pace we need to maintain with reality.</i></center>
 
 <br>
 
 ### Carnegie Mellon University
 
-- 💵 🎓 **James R. Swartz Entrepreneurial Fellow:** Part of a select cohort of 12 students awarded a fellowship that fast-tracks the careers of students who are passionate about entrepreneurship in the technology arena.
+- 💵 🎓 **James R. Swartz Entrepreneurial Fellow:** Uff of a select cohort of 12 students awarded a fellowship that fast-tracks the careers of students who are passionate about entrepreneurship in the technology arena.
 
 ### IIT Gandhinagar
 
@@ -48,4 +48,4 @@ permalink: /achievements/
 
 - Top 32 of 3342 teams in HCL Hack IITK 2020, a national level cybersecurity hackathon.
 
-- Selected for Invention Factory@IITGN, 2019!
+- Selected for Invention Factory@IITGN, 2019! -->
