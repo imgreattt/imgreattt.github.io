@@ -51,7 +51,7 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Dwip Dalal
-  hero__description: Hello World! I am a graduate student at Carnegie Mellon University, Robotics Institute. 
+  hero__description: Hi there! I am an undergraduate at Indian Institute of Technology, Gandhinagar. 
   hero__description_points:
     - Passionate about giving sight to robots.
     - Currently building robotic systems that can assist humans
@@ -88,8 +88,8 @@ mailchimp__button__text: Get updates
 
 #-------------------------------
 # Projects Settings
-projects__settings:
-  projects__title: My Works
+# projects__settings:
+#   projects__title: My Works
   # projects__description: Some uber cool things I've done in the past...
 
 
