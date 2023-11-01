@@ -20,8 +20,8 @@ menu__settings:
     #   url: '/achievements/'
     - title: 'Research'
       url: '/research/'
-    # - title: 'Internship'
-    #   url: '/nonacademic/'
+    - title: 'Internship'
+      url: '/nonacademic/'
     
     # - title: 'Pages'
       # submenu:
