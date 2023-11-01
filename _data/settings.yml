@@ -16,12 +16,12 @@ menu__settings:
       url: '/projects/'
     # - title: 'Blog'
     #   url: '/blog/'
-    - title: 'Achievements'
-      url: '/achievements/'
-    - title: 'Research'
-      url: '/research/'
-    - title: 'Non Academic'
-      url: '/nonacademic/'
+    # - title: 'Achievements'
+    #   url: '/achievements/'
+    # - title: 'Research'
+    #   url: '/research/'
+    # - title: 'Non Academic'
+    #   url: '/nonacademic/'
     
     # - title: 'Pages'
       # submenu:
