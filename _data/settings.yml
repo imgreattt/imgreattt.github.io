@@ -51,13 +51,12 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Dwip Dalal
-  hero__description: Hi there! I am an undergraduate at Indian Institute of Technology, Gandhinagar. 
+  hero__description: Hi there! I am a Senior Undergraduate at Indian Institute of Technology, Gandhinagar.
   hero__description_points:
-    - Passionate about giving sight to robots.
-    - Currently building robotic systems that can assist humans
-    - Love tinkering with robots and experimenting with crazy ideas. Check my projects out here Projects 
-    - Absolutely love teaching and disseminating knowledge in intuitive ways - my projects always have a visual component to it :)
-    - Triple Gold Medallist from IIT Gandhinagar
+    - My research is focused on language, vision, and their integration within multimodal representation learning.
+    - In a broader sense, I am excited about the mathematics and algorithms that revolve around building intelligent systems.
+    - I have published papers in the domain of Reinforcement Learning, Multi-task Video Representation, Image-to-Image Translation, Topic Modeling, Single-Modal and Multimodal Fact Verification, Multimodal Representation Learning, Diffeomorphisms, and Constrained Flows. 
+    - I am passionate about teaching and fostering a community of machine learning enthusiasts. I served as the Secretary(President) of the Machine Learning Society at IIT Gandhinagar for the term 2022-2023.
     
   hero__image: '/images/ski.jpg'
 
